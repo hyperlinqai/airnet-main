@@ -99,7 +99,9 @@ const Footer = () => {
               <div className="flex items-start">
                 <MapPin className="h-5 w-5 text-gray-400 mt-0.5 mr-3 flex-shrink-0" />
                 <p className="text-sm">
-                  Office No. 404, 1 New Palasia Silver Arched Indore Madhya Pradesh 452001
+                  Legal Name : Syntego Telemedia Private Limited </br>
+                               Address : 7th Floor, Maloo-01, Plot 26, Sch. 94, Ring Road, Indore-452010</br>
+                               CIN : U61104MP2025PTC074453
                 </p>
               </div>
             </div>
