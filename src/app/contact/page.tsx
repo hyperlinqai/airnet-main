@@ -232,10 +232,10 @@ const ContactPage = () => {
                   </div>
                   <div>
                     <p className="text-sm font-medium text-gray-600">Office</p>
-                    <p className="text-gray-900 mt-1"> Legal Name : syntego Telemedia Private Limited</p>
+                    <p className="text-gray-900 mt-1"> Legal Name : Syntego Telemedia Private Limited</p>
                     <p className="text-gray-900 mt-1"> Address : 7th Floor, Maloo-01, Plot 26, Sch. 94, Ring Road</p>
                     <p className="text-gray-900">Indore, Madhya Pradesh</p>
-                    <p className="text-gray-900">CIN : U61104MP2025PTC074453404, 1 New Palasia Silver Arched,</p>
+                    <p className="text-gray-900">CIN : U61104MP2025PTC074453404</p>
                   </div>
                 </div>
 
